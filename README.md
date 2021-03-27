@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Collection of my projects which involve many machine learning algorithms.
+Collection of my projects which involve the use of machine learning models for predictive analysis.
